@@ -92,7 +92,7 @@
   },
   "dependencies": {
     "@ant-design/icons": "^4.5.0",
-    "@ant-design/pro-table": "2.60.1",
+    "@ant-design/pro-table": "2.72.1",
     "@antv/s2": "1.13.0",
     "@antv/s2-react": "1.13.0",
     "@dinero.js/currencies": "^2.0.0-alpha.8",
